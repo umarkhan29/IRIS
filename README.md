@@ -1,4 +1,4 @@
-# IRIS
+# ML - IRIS data set classification using Decison Tree
 # Classification of IRIS data set with graphviz decision tree visualization
 
 For Visualizing the decision tree
