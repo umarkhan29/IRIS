@@ -1,10 +1,10 @@
 #importing dataset
 from sklearn.datasets import load_iris
 
-#importing classifies (tree)
+#importing classifier (tree)
 from sklearn import tree
 
-iris =load_iris()
+iris = load_iris()
 
 #print (iris.feature_names)
 #print (iris.target_names)
